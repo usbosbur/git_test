@@ -1,2 +1,2 @@
 
-This is usbosbur's firt git project
+This is usbosbur's first git project
